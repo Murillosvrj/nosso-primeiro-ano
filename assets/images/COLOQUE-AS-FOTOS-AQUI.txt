@@ -1,0 +1,12 @@
+As seis fotografias enviadas já estão incluídas. Cada arquivo aparece uma única vez:
+foto01.jpg — Capa
+foto02.jpg — Era só o começo...
+foto03.jpg — Galeria — nós do nosso jeito
+foto04.jpg — Galeria — uma noite para guardar
+foto05.jpg — Galeria — os nossos dias simples
+foto06.jpg — 365 dias
+
+A proporção original de cada foto está configurada no HTML.
+Para substituir uma imagem, mantenha o nome ou atualize seu caminho em index.html.
+Consulte LEIA-ME.md para ver a correspondência com os nomes dos arquivos originais.
+laco-morango.png é a ilustração original do site.
