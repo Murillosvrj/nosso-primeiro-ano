@@ -1,0 +1,8 @@
+Os três vídeos enviados já estão incluídos:
+video01.mp4 — WhatsApp Video 2026-09-12 at 02.20.50.mp4
+video02.mp4 — WhatsApp Video 2026-09-12 at 02.22.14.mp4
+video03.mp4 — WhatsApp Video 2026-09-12 at 02.22.49.mp4
+
+MP4 com H.264/AAC, sem reprodução automática.
+Os arquivos originais foram preservados na pasta em que você os enviou.
+As legendas dos cards são editáveis em index.html.
