@@ -3,7 +3,7 @@
 /* PERSONALIZE AQUI: cole o link normal da playlist entre as aspas.
    Exemplo de formato: https://open.spotify.com/playlist/ID_DA_SUA_PLAYLIST
    Também aceita links de embed e links com parâmetros ?si=... . */
-const SPOTIFY_PLAYLIST_URL = 'https://open.spotify.com/playlist/74by9ct703Y4ifAiPKT0JI?si=29937bdb6e28462f&pt=84b6d3b3f169aa6782a54ab7fd937e04';
+const SPOTIFY_PLAYLIST_URL = 'https://open.spotify.com/playlist/74by9ct703Y4ifAiPKT0JI?si=OF7mIEhCRoqxiE1PfLPAuA';
 
 (() => {
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
